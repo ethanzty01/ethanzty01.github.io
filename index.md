@@ -8,13 +8,13 @@ University of Macau / State Key Laboratory of Analog and Mixed-Signal VLSI
 [Email](mailto:EthanZheng01@outlook.com)
 
 ## Research Interests
-- Efficient Chip for Machine-Learning
-- Hardware-Software Co-optimization
-- Compute-in-Memory
+- Efficient Accelerators/Processors for Visual Applications
+- Compute-in-Memory Macros Design
+- Mixed-Signal Computing Techniques
 
 ## Education
-- Ph.D. Student, University of Macau, Department of Microelectronics, 2024.8-now
-- Bachlor, Tsinghua University, Department of Electronic Engineering, 2020.8-2024.6
+- Ph.D. Student, University of Macau, 2024.8-now
+- Bachlor, Tsinghua University, 2020.8-2024.6
 
 ## Publications
 1. **论文标题**  
