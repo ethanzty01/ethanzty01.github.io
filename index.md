@@ -1,11 +1,5 @@
----
-layout: default
----
-
-Tianyi Zheng
 University of Macau / State Key Laboratory of Analog and Mixed-Signal VLSI
-
-[Email](mailto:EthanZheng01@outlook.com)
+Email: EthanZheng01 at. outlook.com
 
 ## Research Interests
 - Efficient Accelerators/Processors for Visual Applications
