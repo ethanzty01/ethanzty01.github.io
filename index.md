@@ -22,5 +22,5 @@ University of Macau / State Key Laboratory of Analog and Mixed-Signal VLSI
 
 
 ## News
-- 2026.10: My paper in ISSCC 2027 is accepted!
+- 2026.10: My paper is accepted to ISSCC 2027!
 - 2026.10: My personal website is online!
