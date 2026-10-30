@@ -17,10 +17,10 @@ University of Macau / State Key Laboratory of Analog and Mixed-Signal VLSI
 - Bachlor, Tsinghua University, 2020.8-2024.6
 
 ## Publications
-1. **论文标题**  
-   作者列表  
-   *期刊或会议名称*, 年份.  
-   [Paper](论文链接) · [Code](代码链接)
+1.	**Tianyi Zheng**, Wei-Han Yu, Yuhua Zhang, Ka-Fai Un, Jiawei Xu, Rui P. Martins, Pui-In Mak, “A 0.49mJ/Frame 4K-141fps Super-Resolution Accelerator with Content-Adaptive Residual Computing and Function-Reconfigurable Compute-in-Memory Architecture”, **IEEE International Solid-State Circuits Conference (ISSCC)**, 2027, to be published.
+2.	Hongjie Sui, Huan Yan, **Tianyi Zheng**, Wenzhen Huang, Yunlin Zhuang, Yong Li, “Congestion-aware spatio-temporal graph convolutional network-based A* search algorithm for fastest route search”, **ACM Transactions on Knowledge Discovery from Data**, 2024, 18(7): 1-19.
+
 
 ## News
+- 2026.10: My paper in ISSCC 2027 is accepted!
 - 2026.10: My personal website is online!
