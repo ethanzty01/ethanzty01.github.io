@@ -2,9 +2,9 @@ University of Macau / State Key Laboratory of Analog and Mixed-Signal VLSI
 Email: EthanZheng01 at. outlook.com
 
 ## Research Interests
-- Efficient Accelerators/Processors for Visual Applications
-- Compute-in-Memory Macros Design
-- Mixed-Signal Computing Techniques
+- Efficient Accelerators for Visual Applications
+- Compute-in-Memory
+- Mixed-Signal Computing
 
 ## Education
 - Ph.D. Student, University of Macau, 2024.8-now
