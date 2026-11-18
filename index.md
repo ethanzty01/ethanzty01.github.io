@@ -13,7 +13,6 @@ Email: EthanZheng01 at. outlook.com
 
 ## Publications
 1.	**Tianyi Zheng**, Wei-Han Yu, Yuhua Zhang, Ka-Fai Un, Jiawei Xu, Rui P. Martins, Pui-In Mak, “A 0.49mJ/Frame 4K-141fps Super-Resolution Accelerator with Content-Adaptive Residual Computing and Function-Reconfigurable Compute-in-Memory Architecture”, **IEEE International Solid-State Circuits Conference (ISSCC)**, 2027, to be published.
-2.	Hongjie Sui, Huan Yan, **Tianyi Zheng**, Wenzhen Huang, Yunlin Zhuang, Yong Li, “Congestion-aware spatio-temporal graph convolutional network-based A* search algorithm for fastest route search”, **ACM Transactions on Knowledge Discovery from Data**, 2024, 18(7): 1-19.
 
 
 ## News
