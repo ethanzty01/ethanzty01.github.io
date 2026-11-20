@@ -1,5 +1,3 @@
-University of Macau / State Key Laboratory of Analog and Mixed-Signal VLSI
-
 Email: EthanZheng01 at. outlook.com
 
 ## Research Interests
